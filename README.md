@@ -1,5 +1,7 @@
 # ClientFlow 🚀
 
+> 🌐 **Live Demo**: [https://client-flow-4iol.vercel.app](https://client-flow-4iol.vercel.app)
+
 > A client portal for software agencies — clients submit requests, admins approve and assign them as projects to employees, with built-in messaging and a Kanban board across all three roles.
 
 ---
