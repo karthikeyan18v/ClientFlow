@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const api = axios.create({ baseURL: process.env.NEXT_PUBLIC_API_URL || "http://localhost:5000/api" });
+const api = axios.create({ baseURL: process.env.NEXT_PUBLIC_API_URL || "https://clientflow-rl0h.onrender.com/api" });
 
 api.interceptors.request.use((config) => {
   const token = localStorage.getItem("token");
