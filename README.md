@@ -12,7 +12,7 @@
 
 | client Board | Messaging |
 |-------------|-----------|
-| ![client](screenshots/client.png) | ![Messages](screenshots/messages.png) |
+| ![client](screenshots/client.png) | ![Messages](screenshots/message.png) |
 
 ---
 
