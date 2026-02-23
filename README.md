@@ -8,7 +8,7 @@
 
 | Login | Admin Dashboard |
 |-------|----------------|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/admindashboard.png) |
 
 | client Board | Messaging |
 |-------------|-----------|
