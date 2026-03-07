@@ -115,7 +115,7 @@ npm run dev
 
 | Role | Email | Password |
 |------|-------|----------|
-| Admin | admin@test.com  | Admin123 |
+| Admin | admin@test.com  | admin123 |
 | Employee | karthikeyan18v@gmail.com | 123456 |
 | Client | tbarani0723@gmail.com | 123456 |
 
